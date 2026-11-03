@@ -44,7 +44,6 @@ import org.springframework.http.ResponseEntity;
 /**
  * Integration Test for {@link CrashController}.
  *
- * @author Alex Lutz
  */
 // NOT Waiting https://github.com/spring-projects/spring-boot/issues/5574
 @SpringBootTest(webEnvironment = RANDOM_PORT,

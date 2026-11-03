@@ -24,7 +24,6 @@ import org.springframework.data.jpa.repository.Query;
 /**
  * Repository class for <code>PetType</code> domain objects.
  *
- * @author Patrick Baumgartner
  */
 
 public interface PetTypeRepository extends JpaRepository<PetType, Integer> {

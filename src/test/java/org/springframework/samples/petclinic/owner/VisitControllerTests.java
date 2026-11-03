@@ -38,8 +38,6 @@ import java.util.Optional;
 /**
  * Test class for {@link VisitController}
  *
- * @author Colin But
- * @author Wick Dynex
  */
 @WebMvcTest(VisitController.class)
 @DisabledInNativeImage

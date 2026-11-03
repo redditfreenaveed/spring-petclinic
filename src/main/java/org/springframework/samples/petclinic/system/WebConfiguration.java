@@ -18,7 +18,6 @@ import java.util.Locale;
  * language changes via the URL parameter (e.g., <code>?lang=de</code>).
  * </p>
  *
- * @author Anuj Ashok Potdar
  */
 @Configuration
 @SuppressWarnings("unused")

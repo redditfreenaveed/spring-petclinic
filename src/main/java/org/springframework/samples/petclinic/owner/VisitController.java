@@ -32,12 +32,6 @@ import jakarta.validation.Valid;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 /**
- * @author Juergen Hoeller
- * @author Ken Krebs
- * @author Arjen Poutsma
- * @author Michael Isvy
- * @author Dave Syer
- * @author Wick Dynex
  */
 @Controller
 class VisitController {

@@ -20,7 +20,6 @@ import static org.junit.jupiter.api.Assertions.fail;
  * any HTML files. Also ensures that a string is translated in every language to avoid
  * partial translations.
  *
- * @author Anuj Ashok Potdar
  */
 public class I18nPropertiesSyncTest {
 

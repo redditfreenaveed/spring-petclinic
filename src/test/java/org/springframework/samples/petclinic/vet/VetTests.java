@@ -21,7 +21,6 @@ import org.springframework.util.SerializationUtils;
 import static org.assertj.core.api.Assertions.assertThat;
 
 /**
- * @author Dave Syer
  */
 class VetTests {
 

@@ -28,10 +28,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 /**
- * @author Juergen Hoeller
- * @author Mark Fisher
- * @author Ken Krebs
- * @author Arjen Poutsma
  */
 @Controller
 class VetController {

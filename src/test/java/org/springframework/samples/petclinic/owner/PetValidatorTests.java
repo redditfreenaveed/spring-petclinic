@@ -34,7 +34,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * Test class for {@link PetValidator}
  *
- * @author Wick Dynex
  */
 @ExtendWith(MockitoExtension.class)
 @DisabledInNativeImage

@@ -38,12 +38,6 @@ import jakarta.validation.constraints.Size;
 /**
  * Simple JavaBean domain object representing an owner.
  *
- * @author Ken Krebs
- * @author Juergen Hoeller
- * @author Sam Brannen
- * @author Michael Isvy
- * @author Oliver Drotbohm
- * @author Wick Dynex
  */
 @Entity
 @Table(name = "owners")

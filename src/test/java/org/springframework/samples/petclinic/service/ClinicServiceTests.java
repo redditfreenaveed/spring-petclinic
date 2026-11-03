@@ -62,12 +62,6 @@ import org.springframework.transaction.annotation.Transactional;
  * also inherited and can be used for explicit bean lookup if necessary.</li>
  * </ul>
  *
- * @author Ken Krebs
- * @author Rod Johnson
- * @author Juergen Hoeller
- * @author Sam Brannen
- * @author Michael Isvy
- * @author Dave Syer
  */
 @DataJpaTest
 // Ensure that if the mysql profile is active we connect to the real database:

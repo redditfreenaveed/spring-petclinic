@@ -26,8 +26,6 @@ import org.springframework.validation.Validator;
  * validation rule in Java.
  * </p>
  *
- * @author Ken Krebs
- * @author Juergen Hoeller
  */
 public class PetValidator implements Validator {
 

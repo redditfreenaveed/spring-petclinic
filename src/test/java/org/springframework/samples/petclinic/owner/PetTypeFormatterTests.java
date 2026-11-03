@@ -36,7 +36,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 /**
  * Test class for {@link PetTypeFormatter}
  *
- * @author Colin But
  */
 @ExtendWith(MockitoExtension.class)
 @DisabledInNativeImage
